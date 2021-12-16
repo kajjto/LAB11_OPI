@@ -1,0 +1,2 @@
+# LAB11_OPI
+VLAD
